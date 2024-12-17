@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Masraff Project](https://github.com/Masraff)
 
-- 💬 Ask me about **Solution Architecture, CI/CD Pipelines, API Development**
+- 💬 Ask me about **Solution Architecture, API Development, Design Patterns, CI/CD Pipelines**
 
 - 📫 How to reach me **tarik.cabukoglu@gmail.com**
 
